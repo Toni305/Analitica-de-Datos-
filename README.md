@@ -6,7 +6,7 @@
 
 La BD utilizada fue la participación en el PIB regional: Se menciona que el Producto Interno Bruto (PIB) regional https://es.wikipedia.org/wiki/Econom%C3%ADa_de_Guatemala: de Guatemala representa aproximadamente un tercio del PIB regional de América Central. Fundamentos macroeconómicos sólidos: Se hace referencia a la estabilidad económica del país en los últimos años, caracterizada por altos niveles de reservas, un déficit público controlado. Además, se destaca que la deuda pública es relativamente baja, representando el 30% del PIB en 2011.
 
-**Preguntas a responder:**
+**Preguntas a responder**
 
 ¿Cómo se eliminan los espacios en blanco innecesarios de un texto en R?
 
@@ -19,7 +19,7 @@ La BD utilizada fue la participación en el PIB regional: Se menciona que el Pro
 Este conjunto de datos comprende información detallada sobre 2000 listados de perfumes provenientes de eBay.  
 A través del análisis de los datos se facilita identificar patrones de precios que optimizan las estrategias de venta y fortalecen la competitividad. Al evaluar la disponibilidad de perfumes en diversas regiones, los vendedores pueden ajustar su inventario y campañas de marketing con la finalidad de satisfacer de manera efectiva la demanda del mercado. 
 
-**Preguntas a responder:**
+**Preguntas a responder**
 
 ¿Cuál es la tendencia de compra a través de las medidas de tendencia central? 
 
