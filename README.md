@@ -1,4 +1,4 @@
-**Caso 2**
+**CASO 2**
 
 **Acerca de nuestro portafolio de Analítica de datos:** 
 
