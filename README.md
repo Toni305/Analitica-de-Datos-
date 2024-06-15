@@ -1,6 +1,6 @@
 **Caso 2**
 
-Acerca de nuestro portafolio de Analítica de datos: 
+**Acerca de nuestro portafolio de Analítica de datos:** 
 
 **Limpieza y transformación de datos**
 
